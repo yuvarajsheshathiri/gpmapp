@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">GPMApp</string>
+    <string name="app_name">GPM App</string>
+    <string name="age_verification_title_txt">AGE VERIFICATION</string>
+
+
+    <!--    Color -->
+    <color name="primary_color">#008996</color>
+    <color name="secondary_color">#333333</color>
+    <color name="high_contrast_color">#ffffff</color>
+    <color name="low_contrast_color">#999999</color>
+    <color name="background_color">#000000</color>
+    <color name="third_color">#eaeaea</color>
+    <color name="fourth_color">#99d0d5</color>
+    <color name="fifth_color">#99d0d5</color>
+
+
+
+
 </resources>
